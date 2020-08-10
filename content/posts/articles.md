@@ -1,7 +1,7 @@
 ---
 title: "Main Content (articles)"
 date: 2020-08-02T22:06:56-07:00
-draft: false
+draft: true
 ---
 
 ## Sample articles, images, etc.
@@ -17,7 +17,7 @@ draft: false
 - [Systemic vs Systematic racism](https://withoutbullshit.com/blog/systemic-vs-systematic-for-example-systemic-racism) - June 8, 2020
 - [Netflix creates a Black Lives Matter collection](https://www.wfla.com/entertainment-news/netflix-launches-black-lives-matter-collection/) - June 10, 2020
 
-<img src = "images/netflix-black-lives-matter.jpg" width="350">c
+<img src = "images/netflix-black-lives-matter.jpg" width="350">
 
 
 - [@soyouwanttotalkabout post about the Yemen crisis](https://www.instagram.com/p/CBl5g3-HxZD/) - June 18, 2020
