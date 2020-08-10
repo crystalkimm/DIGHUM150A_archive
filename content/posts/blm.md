@@ -10,6 +10,8 @@ draft: false
 - June 10, 2020 - [Netflix creates a Black Lives Matter collection](https://www.wfla.com/entertainment-news/netflix-launches-black-lives-matter-collection/)
 ![netflix](/images/netflix-black-lives-matter.jpg)
 
+
+
 <img src = "images/netflix-black-lives-matter.jpg" width="350">
 
 - June - [1619 podcast](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html)
