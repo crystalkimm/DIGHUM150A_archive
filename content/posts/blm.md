@@ -23,6 +23,8 @@ draft: false
 - June 1 - June 15, 2020 - [1619 podcast](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html)
   - In 2019, New York Times released 1619, a podcast about the history of slavery in America. Reflecting on recent events with the ongoing Black Lives Matter movement, 1619 reached Apple Podcasts's top charts in June. I haven't listened to it yet, but I thought I would include this because this podcast one of many forms of media that helps educate the public on the history of Black lives and how it affects racism today.
 
+- June 29, 2020 - [The Guardian article on police force at vigil for Elijah McClain](https://www.theguardian.com/us-news/2020/jun/29/elijah-mcclain-colorado-police)
+  - Elijah McClain is another Black life we have lost at the hands of the police. In the midst of protests and different forms of activism, people in Aurora, Colorado held a peaceful vigil in honor of Elijah's life. The police responded by using pepper spray and disbanding the vigil. Not only is this disrespectful, but this only proves how messed up the system is. There is no need to use pepper spray on people playing violins in a public space, yet the police have the power to harm the people rather than protect them.
 
 ### July
 

@@ -17,3 +17,6 @@ draft: false
 ### August
 - August 4, 2020 - [BBC article on Uighur interment in China](https://www.bbc.com/news/world-asia-china-53650246)
   - I saw posts trying to raise awareness of China's internment camps in April, and they didn't gain a lot of attention. Now, in August, there are still thousands of Muslims being held in these camps. Merdan Ghappar senta a video of himself in his cell to his family, which was released to raise awareness. This may endanger Ghappar, but I hope people begin to understand the severity of these camps and why we need to help free these individuals.
+
+- August 5, 2020 - [BBC article on the explosion in Beirut, Lebanon](https://www.bbc.com/news/world-middle-east-53659282)
+![beirut](/images/beirut.jpg)

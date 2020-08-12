@@ -16,9 +16,11 @@ draft: false
   - As a college student, this ICE policy is so relevant to me, not because I am an international student, but because I know there are so many students who will not have the choice to stay in their home country or return to school in the U.S. I know that students at UC Berkeley are trying to create more in-person classes during our hybrid semester to help out these international students, but there is no guarantee in allowing all international students who want to be in the U.S. to stay.
 
 - July 19, 2020 - [BBC article about Portland](https://www.bbc.com/news/world-us-canada-53466718)
+![portland](/images/portland.jpeg)
 
 - July 31, 2020 - [Washington Post article about Trump's plan to ban TikTok](https://www.washingtonpost.com/technology/2020/07/31/tiktok-trump-divestiture/)
   - I have been spending some time on TikTok during quarantine and find a lot of interesting content, including the posts sabotaging Trump's Tulsa rally. While I understand that TikTok may actually be a threat to national security, and I'm not so extremely attached to the app that I would throw a tantrum if it was banned. However, I do find it funny that Trump was actually affected by the large community of TikTokers that are campaigning against him.
+![trump-tulsa](/images/trump-tulsa.jpg)
 
 
 ### August

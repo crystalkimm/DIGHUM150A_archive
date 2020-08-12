@@ -19,6 +19,9 @@ draft: false
 ### June
 - June 8, 2020 - [Systemic vs Systematic racism](https://withoutbullshit.com/blog/systemic-vs-systematic-for-example-systemic-racism)
 
+- June 25, 2020 - [TIME Magazine Model Minority article](https://time.com/5859206/anti-asian-racism-america/)
+![model-minority](/images/time-model-minority.jpg)
+
 - June 29, 2020 - [NPR article on prison labor](https://www.npr.org/2020/06/29/884989263/the-uncounted-workforce)
   - Although recent discussion of prison labor sprouted from people learning about slavery, racism, and slave labor, this seems important to talk about regardless of race. It's important to note that companies that we buy from benefit from prison labor. This may compel you to stop supporting these companies and find alternative brands to shop. I have no discretion over other people's choice of consumption, but I believe it is important that we try to do more research and make more conscious decisions of what companies we support. This is an article explaining why these facts may be misleading: https://www.politifact.com/factchecks/2020/jun/22/instagram-posts/instagram-post-shares-misleading-information-about/.
 
