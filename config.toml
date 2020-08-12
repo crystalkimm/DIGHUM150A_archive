@@ -1,6 +1,6 @@
 baseURL = "https://crystalkimm.github.io/"
 languageCode = "en-us"
-title = "DIGHUM 150A Archive"
+title = "crystal's thoughts"
 theme = "ananke"
 
 [sitemap]
@@ -11,7 +11,7 @@ filename = "sitemap.xml"
 [params]
 favicon = ""
 site_logo = ""
-description = "Digital Humanities Project 2020"
+description = "Digital Humanities Project 2020, current events and media consumption"
 facebook = ""
 instagram = ""
 twitter = ""
@@ -22,7 +22,7 @@ mastodon = ""
 slack = ""
 stackoverflow = ""
 rss = ""
-# choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+# choose a color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 featured_image = "/images/background.jpg" #"/images/gohugo-default-sample-hero-image.jpg"
 recent_posts_number = 2
@@ -30,21 +30,21 @@ recent_posts_number = 2
 
 [[menu.main]] # here are the buttons on the menu
 identifier = "home"
-name = "Home" # Button will display as "Home"
+name = "HOME" # Button will display as "HOME"
 pre = "<br />"
 url = "/"
-weight = 100 # the weight decides the position of the button (higher or lower)
+weight = -3 # the weight decides the position of the button (higher or lower)
 
 [[menu.main]]
 identifier = "about" # this button will refer to a markdown file named "contact" in the content folder
 name = "ABOUT"
 pre = "<br />"
 url = "/about"
-weight = 0
+weight = -1
 
 [[menu.main]]
 identifier = "blog" # this page will refer to a markdown file named "blog" in the content folder
-name = "Blog"
+name = "BLOG"
 pre = "<br />"
 url = "/posts"
-weight = 40
+weight = -2
